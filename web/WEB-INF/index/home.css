@@ -1,0 +1,90 @@
+.headLine{
+    display:flex;
+    height: 70px;
+
+}
+.navbar{
+    display: flex;
+    width: 1800px;
+    justify-content: flex-end;
+}
+.headLogo h2{
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+}
+
+.tovary{
+    width: 1885px;
+    height: 900px;
+
+}
+.welcome{
+    display: flex;
+    width: 1200px;
+    height:100px ;
+    justify-content: center;
+    margin-left: 345px;
+}
+.tovtop{
+    display: flex;
+    width: 1600px;
+    height: 350px;
+    margin-left: 150px;
+}
+.tovbot{
+    display: flex;
+    width: 1600px;
+    height: 350px;
+    margin-left: 150px;
+}
+
+.tov1top{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+.tov2top{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+.tov3top{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+
+.tov1bot{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+.tov2bot{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+.tov3bot{
+    border-radius: 2%;
+    width: 300px;
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 25px;
+    box-shadow: -1px -1px 12px 10px rgb(255, 0, 0);
+}
+

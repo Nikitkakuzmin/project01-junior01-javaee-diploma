@@ -1,0 +1,14 @@
+.headLine{
+    display:flex;
+    height: 70px;
+
+}
+.navbar{
+    display: flex;
+    width: 1800px;
+    justify-content: flex-end;
+}
+.headLogo h2{
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+}

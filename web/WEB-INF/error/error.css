@@ -1,0 +1,54 @@
+.headLine{
+    display:flex;
+    height: 70px;
+
+}
+.navbar{
+    display: flex;
+    width: 1800px;
+    justify-content: flex-end;
+}
+.headLogo h2{
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    background: #000000;
+    font-family: "Open Sans",  Impact;
+}
+
+.area {
+    text-align: center;
+    font-size: 6.5em;
+    color: #ff0000;
+    letter-spacing: -7px;
+    font-weight: 700;
+    text-transform: uppercase;
+    animation: blur .75s ease-out infinite;
+    text-shadow: 0px 0px 5px #ff0000, 0px 0px 7px #ff0000;
+}
+
+@keyframes blur {
+    from {
+        text-shadow:0px 0px 10px #fff,
+        0px 0px 10px #fff,
+        0px 0px 25px #fff,
+        0px 0px 25px #fff,
+        0px 0px 25px #fff,
+        0px 0px 25px #fff,
+        0px 0px 25px #fff,
+        0px 0px 25px #fff,
+        0px 0px 50px #fff,
+        0px 0px 50px #fff,
+        0px 0px 50px #7B96B8,
+        0px 0px 150px #7B96B8,
+        0px 10px 100px #7B96B8,
+        0px 10px 100px #7B96B8,
+        0px 10px 100px #7B96B8,
+        0px 10px 100px #7B96B8,
+        0px -10px 100px #7B96B8,
+        0px -10px 100px #7B96B8;
+    }
+}
